@@ -1,0 +1,56 @@
+\begin{thebibliography}{1}
+\providecommand{\url}[1]{#1}
+\csname url@rmstyle\endcsname
+\providecommand{\newblock}{\relax}
+\providecommand{\bibinfo}[2]{#2}
+\providecommand\BIBentrySTDinterwordspacing{\spaceskip=0pt\relax}
+\providecommand\BIBentryALTinterwordstretchfactor{4}
+\providecommand\BIBentryALTinterwordspacing{\spaceskip=\fontdimen2\font plus
+\BIBentryALTinterwordstretchfactor\fontdimen3\font minus
+  \fontdimen4\font\relax}
+\providecommand\BIBforeignlanguage[2]{{%
+\expandafter\ifx\csname l@#1\endcsname\relax
+\typeout{** WARNING: IEEEtran.bst: No hyphenation pattern has been}%
+\typeout{** loaded for the language `#1'. Using the pattern for}%
+\typeout{** the default language instead.}%
+\else
+\language=\csname l@#1\endcsname
+\fi
+#2}}
+
+\bibitem{WCAG}
+S.~L. Henry and W.~Dick, ``Wcag 2.1 at a glance,'' online, June 2018,
+  \url{https://www.w3.org/WAI/standards-guidelines/wcag/glance/}.
+ \begin{quotation}\noindent WCAG guidelines are made for developers to have a
+  list of technical requirements to meet ADA compliance. Content must be
+  perceivable, operable, understandable, and robust. The Domino's website was
+  not perceivable by the blind, and so it didn't meet WCAG guidelines. WCAG 2.1
+  is backwards compatible with WCAG 2.0. \end{quotation}
+
+\bibitem{Therac-25_Summary}
+C.~Huff, ``A history of the introduction and shut down of therac-25,'' online,
+  2003,
+  \url{https://onlineethics.org/cases/therac-25/history-introduction-and-shut-down-therac-25/}.
+ \begin{quotation}\noindent The Therac-25 was a new version of an existing line
+  of machines, for the first time with all safety features being handled by
+  software. Several incidents were reported to the manufacturer, AECL, and each
+  time they stated there had been no similar incidents. All corrective action
+  was minor, without a full investigation. \end{quotation}
+
+\bibitem{kane1969dynamical}
+T.~Kane and M.~Scher, ``A dynamical explanation of the falling cat
+  phenomenon,'' \emph{International Journal of Solids and Structures}, vol.~5,
+  no.~7, pp. 663--670, 1969.
+ \begin{quotation}\noindent Falling cat experiments! Totally like 2 hinged
+  boxes... \end{quotation}
+
+\bibitem{Dominos_ADA_Summary}
+K.~Sheikh, ``Court finds domino’s pizza violated the ada by having an
+  inaccessible website and orders wcag compliance,'' online, June 2021,
+  \url{https://www.jdsupra.com/legalnews/court-finds-domino-s-pizza-violated-the-2182635/}.
+ \begin{quotation}\noindent The plantiff alleged that the mobile website
+  violated ADA because it was inaccesible to the blind. It was not accessible
+  using a screen reader by experts. Domino's argued the website/mobile app had
+  no nexus to the physical stores, but this was overturned. \end{quotation}
+
+\end{thebibliography}
