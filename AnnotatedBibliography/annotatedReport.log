@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.6) (preloaded format=pdflatex 2023.1.24)  23 FEB 2023 13:57
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.6) (preloaded format=pdflatex 2023.1.24)  24 FEB 2023 11:40
 entering extended mode
 **./annotatedReport.tex
 (annotatedReport.tex
@@ -206,24 +206,23 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) (annotatedReport.bbl)
 [1
 
-{C:/Users/zacerose/AppData/Local/MiKTeX/pdftex/config/pdftex.map}]
+{C:/Users/zacerose/AppData/Local/MiKTeX/pdftex/config/pdftex.map}] [2]
 (annotatedReport.aux) ) 
 Here is how much of TeX's memory you used:
- 2640 strings out of 478864
- 35597 string characters out of 2858508
- 342536 words of memory out of 3000000
- 20566 multiletter control sequences out of 15000+600000
- 412095 words of font info for 61 fonts, out of 8000000 for 9000
+ 2643 strings out of 478864
+ 35734 string characters out of 2858508
+ 344551 words of memory out of 3000000
+ 20570 multiletter control sequences out of 15000+600000
+ 411748 words of font info for 60 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  57i,6n,66p,234b,262s stack positions out of 5000i,500n,10000p,200000b,80000s
 <C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/
 cmbx12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C
 :/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Fil
-es/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Program Files/MiKTeX/fo
-nts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on annotatedReport.pdf (1 page, 68450 bytes).
+es/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
+Output written on annotatedReport.pdf (2 pages, 62443 bytes).
 PDF statistics:
- 31 PDF objects out of 1000 (max. 8388607)
+ 29 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

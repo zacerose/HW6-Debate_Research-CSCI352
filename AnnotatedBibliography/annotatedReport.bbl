@@ -18,8 +18,14 @@
 \fi
 #2}}
 
+\bibitem{School_Platform_Summary}
+M.~Burgess, ``{These Parents Built a School App. Then the City Called the
+  Cops},'' online, November 2021,
+  \url{https://www.wired.com/story/sweden-stockholm-school-app-open-source/}.
+
+
 \bibitem{WCAG}
-S.~L. Henry and W.~Dick, ``Wcag 2.1 at a glance,'' online, June 2018,
+S.~L. Henry and W.~Dick, ``{WCAG 2.1 at a Glance},'' online, June 2018,
   \url{https://www.w3.org/WAI/standards-guidelines/wcag/glance/}.
  \begin{quotation}\noindent WCAG guidelines are made for developers to have a
   list of technical requirements to meet ADA compliance. Content must be
@@ -28,8 +34,8 @@ S.~L. Henry and W.~Dick, ``Wcag 2.1 at a glance,'' online, June 2018,
   is backwards compatible with WCAG 2.0. \end{quotation}
 
 \bibitem{Therac-25_Summary}
-C.~Huff, ``A history of the introduction and shut down of therac-25,'' online,
-  2003,
+C.~Huff, ``{A History of the Introduction and Shut Down of Therac-25},''
+  online, 2003,
   \url{https://onlineethics.org/cases/therac-25/history-introduction-and-shut-down-therac-25/}.
  \begin{quotation}\noindent The Therac-25 was a new version of an existing line
   of machines, for the first time with all safety features being handled by
@@ -37,16 +43,19 @@ C.~Huff, ``A history of the introduction and shut down of therac-25,'' online,
   time they stated there had been no similar incidents. All corrective action
   was minor, without a full investigation. \end{quotation}
 
-\bibitem{kane1969dynamical}
-T.~Kane and M.~Scher, ``A dynamical explanation of the falling cat
-  phenomenon,'' \emph{International Journal of Solids and Structures}, vol.~5,
-  no.~7, pp. 663--670, 1969.
- \begin{quotation}\noindent Falling cat experiments! Totally like 2 hinged
-  boxes... \end{quotation}
+\bibitem{Therac-25_AECL_Response}
+A.~M. Porrello, ``{Death and Denial: The Failure of the THERAC-25, A Medical
+  Linear Accelerator},'' online,
+  \url{http://users.csc.calpoly.edu/~jdalbey/SWE/Papers/THERAC25.html}.
+ \begin{quotation}\noindent AECL had a lot of misplaced confidence in the
+  machine, claiming numerous times that the machine couldn't have been causing
+  problems, even as reports of injuries arrived. The software bug-checking was
+  insufficient, and after the third accident AECL lied outright about there
+  being no other incidents. \end{quotation}
 
 \bibitem{Dominos_ADA_Summary}
-K.~Sheikh, ``Court finds domino’s pizza violated the ada by having an
-  inaccessible website and orders wcag compliance,'' online, June 2021,
+K.~Sheikh, ``{Court finds Domino’s Pizza Violated the ADA by Having an
+  Inaccessible Website and Orders WCAG Compliance},'' online, June 2021,
   \url{https://www.jdsupra.com/legalnews/court-finds-domino-s-pizza-violated-the-2182635/}.
  \begin{quotation}\noindent The plantiff alleged that the mobile website
   violated ADA because it was inaccesible to the blind. It was not accessible
