@@ -18,11 +18,39 @@
 \fi
 #2}}
 
+\bibitem{MCO_Analysis}
+``{ROOT CAUSE ANALYSIS – THE LOSS OF THE MARS CLIMATE ORBITER},'' online,
+  \url{https://dev.thinkreliability.com/case_studies/root-cause-analysis-the-loss-of-the-mars-climate-orbiter/}.
+ \begin{quotation}\noindent The incident can be boiled down to more than a
+  simple unit conversion error. A lack of software validation to correct the
+  error, lack of software testing, and the team not noticing and correcting the
+  incorrect trajectory. The teams working on this project were seperated across
+  the country, and inadequate effort was put into effective communication.
+  \end{quotation}
+
+\bibitem{MCO_Review}
+``{Mars Climate Orbiter Team Finds Likely Cause of Loss},'' news, September
+  1999,
+  \url{https://solarsystem.nasa.gov/news/156/mars-climate-orbiter-team-finds-likely-cause-of-loss/}.
+ \begin{quotation}\noindent After the MCO incident where a probe was crashed
+  into the surface of Mars and lost, the problem was quickly identified within
+  a week. A contracted spacecraft team in Colorado was using English units of
+  measurement, while the mission navigation team in California was using metric
+  units. The primary issue lies with the failure to detect this error before
+  launch. \end{quotation}
+
 \bibitem{School_Platform_Summary}
 M.~Burgess, ``{These Parents Built a School App. Then the City Called the
   Cops},'' online, November 2021,
   \url{https://www.wired.com/story/sweden-stockholm-school-app-open-source/}.
-
+ \begin{quotation}\noindent Skolplattform, Stockholm's official platform for
+  students, parents, and teachers to access things like attendance and grades.
+  Teachers and parents were both frustrated with the overly complicated system
+  that rarely worked, and some parents took it into their own hands and created
+  the Öppna Skolplattformen, an open source alternative for parents. The
+  project grew, and the parents faced attempts by the city to take their
+  app/code down, including changing their API to break the app and legal
+  action. \end{quotation}
 
 \bibitem{WCAG}
 S.~L. Henry and W.~Dick, ``{WCAG 2.1 at a Glance},'' online, June 2018,

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.6) (preloaded format=pdflatex 2023.1.24)  24 FEB 2023 11:40
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.6) (preloaded format=pdflatex 2023.1.24)  27 FEB 2023 13:25
 entering extended mode
 **./annotatedReport.tex
 (annotatedReport.tex
@@ -206,21 +206,33 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) (annotatedReport.bbl)
 [1
 
-{C:/Users/zacerose/AppData/Local/MiKTeX/pdftex/config/pdftex.map}] [2]
-(annotatedReport.aux) ) 
+{C:/Users/zacerose/AppData/Local/MiKTeX/pdftex/config/pdftex.map}]
+Overfull \hbox (19.30511pt too wide) in paragraph at lines 33--33
+\OT1/cmtt/m/n/12 solarsystem . nasa . gov / news / 156 / mars -[] climate -[] o
+rbiter -[] team -[] finds -[] likely -[] cause -[] of -[] loss/$\OT1/cmr/m/n/12
+ . 
+ []
+
+
+Overfull \hbox (9.36626pt too wide) in paragraph at lines 34--34
+\OT1/cmtt/m/n/12 https : / / dev . thinkreliability . com / case _ studies / ro
+ot -[] cause -[] analysis -[] the -[] loss -[] of -[] the -[]
+ []
+
+[2] (annotatedReport.aux) ) 
 Here is how much of TeX's memory you used:
- 2643 strings out of 478864
- 35734 string characters out of 2858508
- 344551 words of memory out of 3000000
- 20570 multiletter control sequences out of 15000+600000
+ 2651 strings out of 478864
+ 35880 string characters out of 2858508
+ 344581 words of memory out of 3000000
+ 20578 multiletter control sequences out of 15000+600000
  411748 words of font info for 60 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  57i,6n,66p,234b,262s stack positions out of 5000i,500n,10000p,200000b,80000s
-<C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/
-cmbx12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C
-:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Fil
-es/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on annotatedReport.pdf (2 pages, 62443 bytes).
+<C:/Program Files/MiKTeX/fonts/type1/public/amsfonts
+/cm/cmbx12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pf
+b><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program
+ Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
+Output written on annotatedReport.pdf (2 pages, 64989 bytes).
 PDF statistics:
  29 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
