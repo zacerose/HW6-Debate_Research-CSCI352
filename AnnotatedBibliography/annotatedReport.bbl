@@ -39,6 +39,19 @@
   units. The primary issue lies with the failure to detect this error before
   launch. \end{quotation}
 
+\bibitem{PMB_Analysis}
+M.~Barr, ``{Lethal Software Defects: Patriot Missile Failure},'' online, March
+  2014,
+  \url{https://embeddedgurus.com/barr-code/2014/03/lethal-software-defects-patriot-missile-failure/}.
+ \begin{quotation}\noindent The Patriot missile defense system was designed to
+  intercept enemy missiles by detecting and shooting them down in the air.
+  There was a software error inherent in all the deployed systems, but it had
+  deadly consequences at a U.S. Army barrack in Saudi Arabia in 1991. The bug
+  caused a slight delay in the timing of the defense system, but this delay
+  would continue to increase until the system is rebooted. During this
+  incident, the Patriot had already been running for over 100 hours, rendering
+  it completely ineffective. \end{quotation}
+
 \bibitem{School_Platform_Summary}
 M.~Burgess, ``{These Parents Built a School App. Then the City Called the
   Cops},'' online, November 2021,
@@ -51,6 +64,19 @@ M.~Burgess, ``{These Parents Built a School App. Then the City Called the
   project grew, and the parents faced attempts by the city to take their
   app/code down, including changing their API to break the app and legal
   action. \end{quotation}
+
+\bibitem{PMB_Efficacy}
+T.~Copp, L.~C. Baldor, and the~associated press, ``{Zelensky will finally
+  receive Patriot missile systems from the U.S.—here is what they are and
+  what they do},'' online, December 2022,
+  \url{https://fortune.com/2022/12/15/patriot-missile-defense-systems-what-they-are-and-what-they-do/}.
+ \begin{quotation}\noindent Even considering the failure of the Patriot system
+  in 1991, they are still deployed around the world today. They are highly
+  sought after in many of the allies to the U.S. Raytheon, who manufactures the
+  system, claims a high success rate, but the efficacy has been called into
+  question several times since. There isn't a lot of concrete evidence that the
+  system was successful in intercepting missiles during the Gulf War, nor in
+  Saudi Arabia in 2018. \end{quotation}
 
 \bibitem{WCAG}
 S.~L. Henry and W.~Dick, ``{WCAG 2.1 at a Glance},'' online, June 2018,

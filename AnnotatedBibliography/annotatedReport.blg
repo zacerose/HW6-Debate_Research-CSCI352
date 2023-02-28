@@ -18,45 +18,45 @@ Warning--to sort, need author, organization, or key in MCO_Review
 Warning--to sort, need author, organization, or key in MCO_Analysis
 
 Done.
-You've used 7 entries,
+You've used 9 entries,
             4480 wiz_defined-function locations,
-            924 strings with 11665 characters,
-and the built_in function-call counts, 3401 in all, are:
-= -- 310
-> -- 44
+            940 strings with 13131 characters,
+and the built_in function-call counts, 4510 in all, are:
+= -- 414
+> -- 71
 < -- 0
-+ -- 20
-- -- 12
-* -- 157
-:= -- 597
-add.period$ -- 14
-call.type$ -- 7
-change.case$ -- 34
++ -- 32
+- -- 20
+* -- 210
+:= -- 789
+add.period$ -- 18
+call.type$ -- 9
+change.case$ -- 46
 chr.to.int$ -- 0
-cite$ -- 9
-duplicate$ -- 253
-empty$ -- 299
-format.name$ -- 13
-if$ -- 710
+cite$ -- 11
+duplicate$ -- 332
+empty$ -- 389
+format.name$ -- 22
+if$ -- 945
 int.to.chr$ -- 0
-int.to.str$ -- 7
-missing$ -- 55
-newline$ -- 48
-num.names$ -- 10
-pop$ -- 166
+int.to.str$ -- 9
+missing$ -- 73
+newline$ -- 56
+num.names$ -- 14
+pop$ -- 219
 preamble$ -- 1
-purify$ -- 20
+purify$ -- 28
 quote$ -- 2
-skip$ -- 245
+skip$ -- 323
 stack$ -- 0
-substring$ -- 56
-swap$ -- 145
+substring$ -- 72
+swap$ -- 196
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 6
-type$ -- 56
+type$ -- 72
 warning$ -- 2
-while$ -- 10
-width$ -- 8
-write$ -- 85
+while$ -- 14
+width$ -- 10
+write$ -- 105
 (There were 2 warnings)
