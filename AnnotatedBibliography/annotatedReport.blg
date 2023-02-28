@@ -10,6 +10,26 @@ Reallocating 'singl_function' (item size: 4) to 100 items.
 Reallocating 'wiz_functions' (item size: 4) to 6000 items.
 Reallocating 'singl_function' (item size: 4) to 100 items.
 Database file #1: myBib.bib
+Warning--I'm ignoring Dominos_ADA_Summary's extra "note" field
+--line 8 of file myBib.bib
+Warning--I'm ignoring WCAG's extra "note" field
+--line 19 of file myBib.bib
+Warning--I'm ignoring Therac-25_Summary's extra "note" field
+--line 31 of file myBib.bib
+Warning--I'm ignoring Therac-25_AECL_Response's extra "note" field
+--line 40 of file myBib.bib
+Warning--I'm ignoring School_Platform_Summary's extra "note" field
+--line 51 of file myBib.bib
+Warning--I'm ignoring Open_Source_Pros_Cons's extra "note" field
+--line 62 of file myBib.bib
+Warning--I'm ignoring MCO_Review's extra "note" field
+--line 72 of file myBib.bib
+Warning--I'm ignoring MCO_Analysis's extra "note" field
+--line 80 of file myBib.bib
+Warning--I'm ignoring PMB_Analysis's extra "note" field
+--line 91 of file myBib.bib
+Warning--I'm ignoring PMB_Efficacy's extra "note" field
+--line 102 of file myBib.bib
 -- IEEEtranS.bst version 1.11 (2003/04/02) by Michael Shell.
 -- http://www.ctan.org/tex-archive/macros/latex/contrib/supported/IEEEtran/
 -- See the "IEEEtran_bst_HOWTO.pdf" manual for usage information.
@@ -18,45 +38,45 @@ Warning--to sort, need author, organization, or key in MCO_Review
 Warning--to sort, need author, organization, or key in MCO_Analysis
 
 Done.
-You've used 9 entries,
+You've used 10 entries,
             4480 wiz_defined-function locations,
-            940 strings with 13131 characters,
-and the built_in function-call counts, 4510 in all, are:
-= -- 414
-> -- 71
+            948 strings with 14217 characters,
+and the built_in function-call counts, 5008 in all, are:
+= -- 462
+> -- 78
 < -- 0
-+ -- 32
-- -- 20
-* -- 210
-:= -- 789
-add.period$ -- 18
-call.type$ -- 9
-change.case$ -- 46
++ -- 35
+- -- 22
+* -- 231
+:= -- 881
+add.period$ -- 20
+call.type$ -- 10
+change.case$ -- 51
 chr.to.int$ -- 0
-cite$ -- 11
-duplicate$ -- 332
-empty$ -- 389
-format.name$ -- 22
-if$ -- 945
+cite$ -- 12
+duplicate$ -- 369
+empty$ -- 432
+format.name$ -- 24
+if$ -- 1050
 int.to.chr$ -- 0
-int.to.str$ -- 9
-missing$ -- 73
-newline$ -- 56
-num.names$ -- 14
-pop$ -- 219
+int.to.str$ -- 10
+missing$ -- 81
+newline$ -- 60
+num.names$ -- 16
+pop$ -- 241
 preamble$ -- 1
-purify$ -- 28
+purify$ -- 31
 quote$ -- 2
-skip$ -- 323
+skip$ -- 359
 stack$ -- 0
-substring$ -- 72
-swap$ -- 196
+substring$ -- 80
+swap$ -- 219
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 6
-type$ -- 72
+type$ -- 80
 warning$ -- 2
-while$ -- 14
-width$ -- 10
-write$ -- 105
-(There were 2 warnings)
+while$ -- 16
+width$ -- 12
+write$ -- 115
+(There were 12 warnings)

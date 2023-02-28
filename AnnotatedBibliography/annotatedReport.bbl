@@ -1,4 +1,4 @@
-\begin{thebibliography}{1}
+\begin{thebibliography}{10}
 \providecommand{\url}[1]{#1}
 \csname url@rmstyle\endcsname
 \providecommand{\newblock}{\relax}
@@ -33,8 +33,8 @@
   1999,
   \url{https://solarsystem.nasa.gov/news/156/mars-climate-orbiter-team-finds-likely-cause-of-loss/}.
  \begin{quotation}\noindent After the MCO incident where a probe was crashed
-  into the surface of Mars and lost, the problem was quickly identified within
-  a week. A contracted spacecraft team in Colorado was using English units of
+  into the surface of Mars, the problem was quickly identified within a week. A
+  contracted spacecraft team in Colorado was using English units of
   measurement, while the mission navigation team in California was using metric
   units. The primary issue lies with the failure to detect this error before
   launch. \end{quotation}
@@ -48,22 +48,23 @@ M.~Barr, ``{Lethal Software Defects: Patriot Missile Failure},'' online, March
   There was a software error inherent in all the deployed systems, but it had
   deadly consequences at a U.S. Army barrack in Saudi Arabia in 1991. The bug
   caused a slight delay in the timing of the defense system, but this delay
-  would continue to increase until the system is rebooted. During this
-  incident, the Patriot had already been running for over 100 hours, rendering
-  it completely ineffective. \end{quotation}
+  would continue to increase over time until the system is rebooted. During
+  this incident, the Patriot had already been running for over 100 hours,
+  rendering it completely ineffective. \end{quotation}
 
 \bibitem{School_Platform_Summary}
 M.~Burgess, ``{These Parents Built a School App. Then the City Called the
   Cops},'' online, November 2021,
   \url{https://www.wired.com/story/sweden-stockholm-school-app-open-source/}.
  \begin{quotation}\noindent Skolplattform, Stockholm's official platform for
-  students, parents, and teachers to access things like attendance and grades.
-  Teachers and parents were both frustrated with the overly complicated system
-  that rarely worked, and some parents took it into their own hands and created
-  the Öppna Skolplattformen, an open source alternative for parents. The
-  project grew, and the parents faced attempts by the city to take their
-  app/code down, including changing their API to break the app and legal
-  action. \end{quotation}
+  students, parents, and teachers to access things like attendance and grades,
+  was developed by a private company. Teachers and parents were both frustrated
+  with the overly complicated system that rarely worked, and some parents took
+  it into their own hands and created the Öppna Skolplattformen, an open
+  source alternative for parents. The project grew, and the parents faced
+  attempts by the city to take their app/code down, including changing their
+  API to break the app and legal action. Eventually, after a legal battle, the
+  team recieves some support from the city. \end{quotation}
 
 \bibitem{PMB_Efficacy}
 T.~Copp, L.~C. Baldor, and the~associated press, ``{Zelensky will finally
@@ -92,10 +93,11 @@ C.~Huff, ``{A History of the Introduction and Shut Down of Therac-25},''
   online, 2003,
   \url{https://onlineethics.org/cases/therac-25/history-introduction-and-shut-down-therac-25/}.
  \begin{quotation}\noindent The Therac-25 was a new version of an existing line
-  of machines, for the first time with all safety features being handled by
-  software. Several incidents were reported to the manufacturer, AECL, and each
-  time they stated there had been no similar incidents. All corrective action
-  was minor, without a full investigation. \end{quotation}
+  of machines, and for the first time all safety features would be handled by
+  software. Several accidents were reported to the manufacturer, AECL, and each
+  time AECL claimed there had been no similar incidents. All corrective action
+  was minor, without a proper investigation, and AECL maintained their machine
+  could not be the cause of any accidents. \end{quotation}
 
 \bibitem{Therac-25_AECL_Response}
 A.~M. Porrello, ``{Death and Denial: The Failure of the THERAC-25, A Medical
@@ -107,13 +109,28 @@ A.~M. Porrello, ``{Death and Denial: The Failure of the THERAC-25, A Medical
   insufficient, and after the third accident AECL lied outright about there
   being no other incidents. \end{quotation}
 
+\bibitem{Open_Source_Pros_Cons}
+N.~Regoli, ``{7 Main Advantages and Disadvantages of Open Source Software},''
+  online, June 2015,
+  \url{https://connectusfund.org/7-main-advantages-and-disadvantages-of-open-source-software/}.
+ \begin{quotation}\noindent Open source software has many benefits, and also
+  some negatives to consider. They are often cheaper, although in this case the
+  open source version relies on the official version. However, if the app had
+  been open source since the beginning, the government could have saved a lot
+  of money. They are worked on by many people, which helps prevent bugs and
+  helps fix issues in a timely manner. On the other hand, because the code is
+  open source, it is more vulnerable to malicious users due to ease of
+  developing exploits. This was one issue with the app, as privacy concerns
+  were certainly valid. \end{quotation}
+
 \bibitem{Dominos_ADA_Summary}
 K.~Sheikh, ``{Court finds Domino’s Pizza Violated the ADA by Having an
   Inaccessible Website and Orders WCAG Compliance},'' online, June 2021,
   \url{https://www.jdsupra.com/legalnews/court-finds-domino-s-pizza-violated-the-2182635/}.
  \begin{quotation}\noindent The plantiff alleged that the mobile website
-  violated ADA because it was inaccesible to the blind. It was not accessible
-  using a screen reader by experts. Domino's argued the website/mobile app had
-  no nexus to the physical stores, but this was overturned. \end{quotation}
+  violated ADA because it was inaccesible to the blind. Experts were unable to
+  place an order using a screen reader, and they were unable to place a timely
+  order on the phone. Domino's argued the website/mobile app had no nexus to
+  the physical stores, but this was overturned. \end{quotation}
 
 \end{thebibliography}
